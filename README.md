@@ -98,9 +98,9 @@ Revenue streams analyzed:
 ## Repository Structure
 
 ```text
-Documentation/
-Excel_Model/
-Images/
+Report
+Excel_Model
+Screenshots
 ```
 
 ---
